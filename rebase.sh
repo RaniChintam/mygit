@@ -1,2 +1,2 @@
-This is my rebase file
-please learn devops
+Hello git
+git  will track all changes files
