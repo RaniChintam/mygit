@@ -4,4 +4,3 @@ var c=30
 
 var e=50
 var d=40
-var f=4000
