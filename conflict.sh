@@ -1,1 +1,1 @@
-new file
+code a=100
